@@ -1,0 +1,19 @@
+#main { 
+    background-color: #ffffff;
+}
+
+#bannerphoto {
+	margin: 0px;
+	height: 180px;
+	width: 1400px;
+}
+
+.cent {
+	font-family: Garamond, Arial, sans-serif;
+	font-size: 16px;
+	color: #202020;
+	text-align: center;
+	max-width: 80%;
+	padding-left:10%;
+	padding-right:10%;
+}
